@@ -9,11 +9,7 @@ Apêndices do Trabalho de Conclusão de Curso *Planejamento de Melhoria Técnica
 | C | [Cronograma do projeto (gráfico de Gantt)](Apendice-C-Cronograma) |
 | D | [Matriz de Riscos](Apendice-D-Matriz-de-Riscos) |
 | E | [Assessment de Conformidade](Apendice-E-Assessment) |
-| G | [Política de Classificação de Dados](Apendice-G-Classificacao-de-Dados) |
-| H | [Política de Gestão de Ativos](Apendice-H-Gestao-de-Ativos) |
-| I | [Política de Gestão de Dados](Apendice-I-Gestao-de-Dados) |
-| J | [Processo Formal de Avaliação de Terceiros e Fornecedores](Apendice-J-Avaliacao-de-Terceiros) |
-| K | [Plano de Comunicação de Crise Corporativa](Apendice-K-Comunicacao-de-Crise) |
+
 
 O Apêndice F (Evidências dos Testes) consta apenas no texto do TCC.
 
